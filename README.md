@@ -1,0 +1,1 @@
+# Avalia-o-Diagn-stica-de-Versionamento-e-Deploy
